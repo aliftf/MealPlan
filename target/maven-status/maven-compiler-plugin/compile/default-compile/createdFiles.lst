@@ -1,0 +1,11 @@
+Schedule\Schedule$Days.class
+Nutrition\Nutrition.class
+com\mealgroup\mealplan\MealPlan.class
+Meal\Meal.class
+Meal\Recipe.class
+Schedule\Schedule.class
+Interface\Loginable.class
+Application\Application.class
+Schedule\ScheduleList.class
+User\User.class
+User\User$Gender.class
